@@ -1,0 +1,18 @@
+# Ignorar dependencias de Composer
+/vendor
+
+# Ignorar el archivo de configuración de entorno
+.env
+
+# Ignorar dependencias de Node.js (si las usas)
+node_modules/
+
+# Ignorar archivos de caché y logs
+/storage/*.log
+/storage/framework/cache
+/storage/framework/sessions
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
